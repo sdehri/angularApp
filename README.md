@@ -1,16 +1,5 @@
 # angularApp
 
-Steps to deploy on local system:
-1) Download Package. angularApp.zip will be downloaded. 
-2) Unzip package and place it in a folder.
-3) Open Project in IDE.
-4) Open Terminal and Run npm-install
-5) After successful execution of step 4, Run npm-start, if asked to use different port, enter Yes.
-6) After successful execution of step5, grab the URL mentioned in Terminal.
-7) Open the URL in browser.
-
-Problem Statement:
-
 The skeleton comes with index.html,list component.
 
 Stage 1:
